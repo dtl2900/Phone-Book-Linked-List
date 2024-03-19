@@ -1,4 +1,6 @@
-// Main class to interact with phonebook manager
+// Programmer: Dani Torres
+// Purpose: Create an interactive phone book using linked list's 
+
 import java.util.Scanner;
 
 public class TestClass {
